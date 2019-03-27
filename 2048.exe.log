@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xd6 in position 40: invalid continuation byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xd6 in position 40: invalid continuation byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xd6 in position 40: invalid continuation byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xb3 in position 37: invalid start byte
+Traceback (most recent call last):
+  File "2048.py", line 363, in <module>
+  File "wx\core.pyo", line 2049, in __init__
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xd7 in position 3: invalid continuation byte
