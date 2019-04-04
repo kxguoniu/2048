@@ -7,3 +7,4 @@ Note: the project path cannot contain Chinese characters
 
 ## Interface
 ![](./start.jpg)
+![](./start1.jpg)
